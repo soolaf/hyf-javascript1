@@ -78,20 +78,7 @@ else{ if(typeof myFavoriteDishes!= typeof myHobbySkiing)
 else{console.log('The Same Type');
 }} }
 
-var x=3;
-var y=5;
-var z=3;
-var n=3;
-if(x!= y){console.log('Not The Same Type');}
 
-else{if(y!= z){
-console.log('Not The Same Type');
-}
-else{ if(z!= n)
-{console.log('Not The Same Type');
-}
-else{console.log('The Same Type');
-}} }
 
 //9.modulo.
 var x = 7 ;
