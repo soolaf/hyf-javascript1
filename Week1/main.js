@@ -89,6 +89,6 @@ console.log('The modulus operator(%)computes the remainder after dividing its fi
 // 10.Write a program.
 console.log(' We can store multiple types in an array')
 
-var myArray =['cat','fish',5 ];
-console.log(myArray);
+var myList =['cat','fish',5 ];
+console.log(myList);
 console.log(6/0===10/0);
